@@ -1,0 +1,23 @@
+body{
+    background-color: green;
+}
+
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+#signin{
+    margin-left: 550px;
+    
+}
+#signin #btnGoogle {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+#signup{
+    margin-left: 550px;
+}
